@@ -1,3 +1,7 @@
+// References
+// https://www.youtube.com/watch?v=NGMRB4O922I
+// https://www.youtube.com/watch?v=6z7GQewK-Kss
+
 function setup() {
     createCanvas(600, 600)
     pixelDensity(1)
