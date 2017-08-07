@@ -1,4 +1,4 @@
-# Mandelbrot set
+# Mandelbrot set on html5 canvas using p5.js library
 
 ![](mandelbrot_set.png)
 
